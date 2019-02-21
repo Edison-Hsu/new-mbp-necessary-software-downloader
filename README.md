@@ -1,1 +1,25 @@
 # new-mbp-necessary-software-downloader
+
+* 1password
+* Alfred
+* atom-mac
+* Caffeine
+* Dash
+* Docker
+* yinxiang
+* DropboxInstaller
+* googlechrome
+* iTerm
+* jdk8
+* MacVim
+* brew
+* office
+* mysql
+* Postman
+* sequel-pro
+* ShadowsocksX-NG
+* sogou_mac
+* Things3
+* Typora
+* wechat
+* zoomusInstaller

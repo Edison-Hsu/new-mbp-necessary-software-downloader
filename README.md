@@ -3,8 +3,8 @@
 * 1password https://app-updates.agilebits.com/download/OPM7
 * Alfred https://cachefly.alfredapp.com/Alfred_3.8_959.dmg
 * atom-mac https://atom.io/download/mac
-* Caffeine
-* Dash
+* Caffeine https://caffeine.softonic.cn/mac/download
+* Dash https://kapeli.com/downloads/v4/Dash.zip
 * Docker
 * yinxiang
 * DropboxInstaller

@@ -5,7 +5,7 @@
 * atom-mac https://atom.io/download/mac
 * Caffeine https://caffeine.softonic.cn/mac/download
 * Dash https://kapeli.com/downloads/v4/Dash.zip
-* Docker
+* Docker https://hub.docker.com/editions/community/docker-ce-desktop-mac
 * yinxiang
 * DropboxInstaller
 * googlechrome

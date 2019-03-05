@@ -15,11 +15,11 @@
 * brew /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 * office 
 * mysql https://dev.mysql.com/downloads/mysql/
-* Postman
-* sequel-pro
-* ShadowsocksX-NG
-* sogou_mac
+* Postman https://dl.pstmn.io/download/latest/osx
+* sequel-pro https://github.com/sequelpro/sequelpro/releases/download/release-1.1.2/sequel-pro-1.1.2.dmg
+* ShadowsocksX-NG https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.8.2/ShadowsocksX-NG.app.1.8.2.zip
+* sogou_mac http://cdn2.ime.sogou.com/5868a582c1697a648b06789733f98d2a/5c7e1d62/dl/index/1548403044/sogou_mac_52a.zip
 * Things3
-* Typora
-* wechat
+* Typora https://typora.io/download/Typora.dmg
+* wechat https://dldir1.qq.com/weixin/mac/WeChat_2.3.23.17_1548069461.dmg
 * zoomusInstaller

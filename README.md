@@ -18,7 +18,7 @@
 * Postman https://dl.pstmn.io/download/latest/osx
 * sequel-pro 
 * ShadowsocksX-NG 
-* + sogou_mac 
+* sogou_mac 
 * Things3
 * Typora https://typora.io/download/Typora.dmg
 * wechat https://dldir1.qq.com/weixin/mac/WeChat_2.3.23.17_1548069461.dmg

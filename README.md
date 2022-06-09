@@ -28,5 +28,8 @@
 * brew https://brew.sh/
 * oh-my-zsh
 * brew install ripgrep
-* MacVim `brew install macvim`
+* brew install macvim
+* brew install httpie
+* brew install jq
+* brew install colima # docker
 

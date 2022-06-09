@@ -1,7 +1,7 @@
 # new-mbp-necessary-software-downloader
 
 * 1password https://app-updates.agilebits.com/download/OPM7
-* Alfred 
+* Alfred https://www.alfredapp.com/
 * atom-mac https://atom.io/download/mac
 * Caffeine https://caffeine.softonic.cn/mac/download
 * Dash https://kapeli.com/downloads/v4/Dash.zip

@@ -3,6 +3,7 @@
 * 1password https://1password.com/zh-cn/downloads/mac/
 * Alfred https://www.alfredapp.com/
 * atom-mac https://atom.io/download/mac
+* vs code https://code.visualstudio.com/
 * Caffeine https://caffeine.softonic.cn/mac/download
 * Dash https://kapeli.com/downloads/v4/Dash.zip
 * Docker https://hub.docker.com/editions/community/docker-ce-desktop-mac
@@ -16,13 +17,16 @@
 * ShadowsocksX-NG 
 * Things3
 * Typora https://typora.io
-* wechat https://dldir1.qq.com/weixin/mac/WeChat_2.3.23.17_1548069461.dmg
-* zoomusInstaller
-* itslcal
+* wechat https://dldir1.qq.com/weixin/
+* 企业微信 https://work.weixin.qq.com/#indexDownload
+* zoom
+* itsycal
 * mindnode
+* Rectangle https://rectangleapp.com/
 
 ### command line tools
 * brew https://brew.sh/
+* oh-my-zsh
 * brew install ripgrep
 * MacVim `brew install macvim`
 

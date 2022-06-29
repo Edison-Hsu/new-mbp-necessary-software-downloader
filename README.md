@@ -23,6 +23,7 @@
 * itsycal
 * mindnode
 * Rectangle https://rectangleapp.com/
+* SwitchKey https://github.com/itsuhane/SwitchKey
 
 ### command line tools
 * brew https://brew.sh/

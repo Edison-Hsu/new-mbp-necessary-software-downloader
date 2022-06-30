@@ -35,3 +35,6 @@
 * brew install jq
 * brew install colima # docker
 
+### fonts
+鸿雷板书简体
+

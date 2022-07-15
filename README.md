@@ -1,5 +1,6 @@
 # new-mbp-necessary-software-downloader
 
+* keka https://www.keka.io/en/
 * 1password https://1password.com/zh-cn/downloads/mac/
 * Alfred https://www.alfredapp.com/
 * atom-mac https://atom.io/download/mac

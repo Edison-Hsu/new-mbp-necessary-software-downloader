@@ -35,6 +35,7 @@
 * brew install httpie
 * brew install jq
 * brew install colima # docker
+* brew install tig
 
 ### fonts
 鸿雷板书简体

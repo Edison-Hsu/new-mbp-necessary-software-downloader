@@ -26,6 +26,7 @@
 * Rectangle https://rectangleapp.com/
 * SwitchKey https://github.com/itsuhane/SwitchKey
 * excalidraw https://excalidraw.com/
+* balenaEtcher https://www.balena.io/etcher/
 
 ### command line tools
 * brew https://brew.sh/
@@ -39,4 +40,5 @@
 
 ### fonts
 鸿雷板书简体
+
 
